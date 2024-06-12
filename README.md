@@ -17,9 +17,11 @@
 
 أولاً، قم باستنساخ المستودع إلى جهازك المحلي باستخدام الأمر التالي:
 
+<p dir="rtl">
 ```bash
 git clone https://github.com/username/repository.git
 ```
+</p>
 
 ### 2. الانتقال إلى مجلد المشروع
 
