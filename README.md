@@ -4,10 +4,12 @@
 
 قبل أن تبدأ، تأكد من أن لديك المتطلبات الأساسية التالية مثبتة على جهازك:
 
-1. [Git](https://git-scm.com/)
-2. [Composer](https://getcomposer.org/)
-3. [Node.js](https://nodejs.org/) و [npm](https://www.npmjs.com/)
-4. [XAMPP](https://www.apachefriends.org/index.html) أو أي خادم محلي آخر
+<p dir="rtl">
+1. <a href="https://git-scm.com/">Git</a><br>
+2. <a href="https://getcomposer.org/">Composer</a><br>
+3. <a href="https://nodejs.org/">Node.js</a> و <a href="https://www.npmjs.com/">npm</a><br>
+4. <a href="https://www.apachefriends.org/index.html">XAMPP</a> أو أي خادم محلي آخر
+</p>
 
 ## الخطوات
 
