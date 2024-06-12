@@ -18,7 +18,7 @@
 أولاً، قم باستنساخ المستودع إلى جهازك المحلي باستخدام الأمر التالي:
 
 ```bash
-git clone https://github.com/username/repository.git
+git clone https://github.com/glitsh404/taheedapp-task.git
 ```
 
 ### 2. الانتقال إلى مجلد المشروع
@@ -26,7 +26,7 @@ git clone https://github.com/username/repository.git
 بعد استنساخ المستودع، انتقل إلى مجلد المشروع:
 
 ```bash
-cd repository
+cd taheedapp-task
 ```
 
 ### 3. تثبيت Composer
@@ -45,9 +45,9 @@ composer install
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
-DB_DATABASE=your_database_name
-DB_USERNAME=your_username
-DB_PASSWORD=your_password
+DB_DATABASE=taheedapp
+DB_USERNAME=root
+DB_PASSWORD=
 ```
 
 ### 5. تشغيل XAMPP
